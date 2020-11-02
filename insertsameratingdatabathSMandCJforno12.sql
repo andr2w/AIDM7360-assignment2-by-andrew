@@ -1,0 +1,1 @@
+INSERT INTO Rating  VALUES(12, 14, 5, '2020')
